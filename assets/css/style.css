@@ -1,0 +1,16 @@
+.logo-nombre{
+   
+}
+#sobre-mi{
+    background-image: url(../imag/bg-hero.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
+.resumen{
+    background-color: rgba(0, 123, 255, 0.5);
+    padding: 15px;
+    border-radius: 5px;
+    text-align: left;
+  
+}
