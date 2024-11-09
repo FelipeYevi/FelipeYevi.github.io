@@ -1,3 +1,6 @@
+
+
+
 .logo-nombre{
    
 }
@@ -7,17 +10,52 @@
     background-size: cover;
     background-position: left;
     font-size: medium;
+    
 }
 .resumen{
-    background-color: rgba(0, 123, 255, 0.7);
+    background-color: rgba(0, 123, 255, 0.3);
     padding: 15px;
     border-radius: 5px;
     text-align: left;
-  
+
 }
+
+.mi-foto{
+    width: 200px;
+    height: auto;
+
+}
+
 #seccion-educacion{
     text-align: center;
 
 
 }
+.logo-desafio{
+   
+   width: 370px;
+   height: auto;
 
+}
+.logo-comap{
+    width: 150px;
+    height: auto;
+}
+.logo-siemens{
+    width: 150px;
+    height: auto;
+
+}
+.imagen-sincronismo{
+    width: 1000px;
+    height: auto;
+}
+.imagen-alarmas{
+    width: auto;
+    height: 50%;
+}
+.imagen-temperatura{
+    width: 1000px;
+    height: auto;
+
+}
