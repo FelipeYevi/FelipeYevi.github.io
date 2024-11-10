@@ -2,6 +2,7 @@
 
 
 .logo-nombre{
+    width: 30%;
    
 }
 #sobre-mi{
@@ -10,10 +11,11 @@
     background-size: cover;
     background-position: left;
     font-size: medium;
+    border: 1px solid red;
     
 }
 .resumen{
-    background-color: rgba(0, 123, 255, 0.3);
+    background-color:#DFF2EB ;
     padding: 15px;
     border-radius: 5px;
     text-align: left;
@@ -23,11 +25,11 @@
 .mi-foto{
     width: 200px;
     height: auto;
-
 }
 
-#seccion-educacion{
+#educacion{
     text-align: center;
+    border: 1px solid red;
 
 
 }
@@ -46,9 +48,15 @@
     height: auto;
 
 }
+
+#experiencia{
+    border: 1px solid red;
+    width: max-content;
+    height: min-content;
+}
 .imagen-sincronismo{
-    width: 1000px;
-    height: auto;
+    width: ;
+    height: ;
 }
 .imagen-alarmas{
     width: auto;
@@ -58,4 +66,7 @@
     width: 1000px;
     height: auto;
 
+}
+footer{
+    background-color: #4A628A;
 }
