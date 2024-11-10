@@ -1,5 +1,9 @@
-
-
+body{
+    background-color: #7AB2D3;
+}
+.navbar{
+    background-color: #DFF2EB;
+}
 
 .logo-nombre{
     width: 30%;
@@ -11,14 +15,16 @@
     background-size: cover;
     background-position: left;
     font-size: medium;
-    border: 1px solid red;
+
+   
     
 }
 .resumen{
-    background-color:#DFF2EB ;
+    background-color: rgba(122, 178, 211,0.5);
     padding: 15px;
     border-radius: 5px;
     text-align: left;
+    
 
 }
 
@@ -29,7 +35,9 @@
 
 #educacion{
     text-align: center;
-    border: 1px solid red;
+    background-color: #B9E5E8;
+   
+    
 
 
 }
@@ -50,17 +58,18 @@
 }
 
 #experiencia{
-    border: 1px solid red;
+ 
     width: max-content;
     height: min-content;
+    
 }
 .imagen-sincronismo{
-    width: ;
-    height: ;
+    width:1000px;
+    height: auto;
 }
 .imagen-alarmas{
-    width: auto;
-    height: 50%;
+    width: 1000px;
+    height: auto;
 }
 .imagen-temperatura{
     width: 1000px;
