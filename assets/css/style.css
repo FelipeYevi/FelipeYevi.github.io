@@ -10,7 +10,7 @@ body{
    
 }
 #sobre-mi{
-    background-image: url(../imag/bg-hero.png);
+    background-image: url(../imag/bgHeader.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: left;
@@ -95,4 +95,5 @@ footer{
 }
 .Logo-portafolio{
     width: 100px;
+    height: auto;
 }
