@@ -63,19 +63,33 @@ body{
     height: min-content;
     
 }
+.logo-nautronika{
+    width:930px;
+    height: 300px;
+    object-fit: cover;
+
+}
 .imagen-sincronismo{
-    width:1000px;
-    height: auto;
+    width:800px;
+    height: 300px;
+    object-fit: cover;
 }
 .imagen-alarmas{
-    width: 1000px;
-    height: auto;
+    width: 800px;
+    height: 300px;
+    object-fit: cover;
 }
 .imagen-temperatura{
-    width: 1000px;
-    height: auto;
+    width:800px;
+    height: 300px;
+    object-fit: cover;
 
 }
 footer{
     background-color: #4A628A;
+}
+.carousel-caption{
+    background-color: rgba(87, 87, 158, 0.7);
+    padding: 15px;
+    border-radius: 5px;
 }
