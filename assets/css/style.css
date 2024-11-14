@@ -35,7 +35,7 @@ body{
 
 #educacion{
     text-align: center;
-    background-color: #B9E5E8;
+    background-color:beige;
    
     
 
@@ -61,7 +61,7 @@ body{
  
     width: max-content;
     height: min-content;
-    
+    background-color:cyan;
 }
 .logo-nautronika{
     width:930px;
