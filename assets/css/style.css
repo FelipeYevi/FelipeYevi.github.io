@@ -32,7 +32,9 @@ body{
     width: 200px;
     height: auto;
 }
-
+.logo-linkedin{
+    
+}
 #educacion{
     text-align: center;
     background-color: #B9E5E8;
@@ -89,9 +91,10 @@ footer{
     background-color: #4A628A;
 }
 .carousel-caption{
-    background-color: rgba(87, 87, 158, 0.7);
+    background-color: rgba(120, 183, 208, 0.7);
     padding: 15px;
     border-radius: 5px;
+    
 }
 .Logo-portafolio{
     width: 100px;
